@@ -1,4 +1,4 @@
-# RAPT Core Code (Simplified Version)
+# Code of RAPT
 
 This repository includes two core components of the RAPT framework:
 
